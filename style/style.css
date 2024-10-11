@@ -159,3 +159,11 @@
     color: #000;
     border: rgb(10, 10, 162) solid;
 }
+
+.iframe-container{
+
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    
+}
