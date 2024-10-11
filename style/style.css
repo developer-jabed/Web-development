@@ -349,3 +349,7 @@
 .footer-container a {
     margin-left: 15px;
 }
+
+.social-icons{
+    gap: 20px;
+}
